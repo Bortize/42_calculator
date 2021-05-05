@@ -29,9 +29,9 @@ Open your browser and enter the following url to view the calculator
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Bortize/42_calculator/blob/master/images/calculator.jpg)
 
 ## Authors
 
-- [@bgomez-r aka. Bortize](https://www.github.com/katherinepeterson)
+- [@bgomez-r aka. Bortize](https://github.com/Bortize)
 
