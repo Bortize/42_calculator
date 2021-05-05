@@ -1,8 +1,6 @@
 
 ## 42 madrid staff skills test
 
-[Documentation](https://linktodocumentation)
-
 #### Subject:
 
 Create a complete calculator browser application. Your application will need to handle at minimum algebraic classical operation (addition, division, multiplication, subtraction) and handle floating point numbers. We want to be impressed by your application.
@@ -31,11 +29,12 @@ You may get a warning that the browser is not secure. Nothing dangerous happens,
 
 ![App Screenshot](https://github.com/Bortize/42_calculator/blob/master/images/unsafe_chrome.jpg)
 
---
+---
 
 ## Screenshots
 
 ![App Screenshot](https://github.com/Bortize/42_calculator/blob/master/images/calculator.jpg)
+
 ---
 
 ## Authors
